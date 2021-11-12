@@ -1,5 +1,5 @@
 item_cat,item_category_name,item_category_id
-PC - Headsets / Headphones,PC - Headsets / Headphones,0
+PC-Headsets,PC - Headsets / Headphones,0
 Accessories,Accessories - PS2,1
 Accessories,Accessories - PS3,2
 Accessories,Accessories - PS4,3
@@ -7,16 +7,16 @@ Accessories,Accessories - PSP,4
 Accessories,Accessories - PSVita,5
 Accessories,Accessories - XBOX 360,6
 Accessories,Accessories - XBOX ONE,7
-Tickets (digits),Tickets (digits),8
-Delivery of goods,Delivery of goods,9
-Game consoles,Game consoles - PS2,10
-Game consoles,Game consoles - PS3,11
-Game consoles,Game consoles - PS4,12
-Game consoles,Game consoles - PSP,13
-Game consoles,Game consoles - PSVita,14
-Game consoles,Game consoles - XBOX 360,15
-Game consoles,Game consoles - XBOX ONE,16
-Game consoles,Game consoles - Other,17
+Tickets,Tickets (digits),8
+Delivery,Delivery of goods,9
+Games,Game consoles - PS2,10
+Games,Game consoles - PS3,11
+Games,Game consoles - PS4,12
+Games,Game consoles - PSP,13
+Games,Game consoles - PSVita,14
+Games,Game consoles - XBOX 360,15
+Games,Game consoles - XBOX ONE,16
+Games,Game consoles - Other,17
 Games,Games - PS2,18
 Games,Games - PS3,19
 Games,Games - PS4,20
@@ -31,16 +31,16 @@ Games,Games PC - Additional publications,28
 Games,Games PC - Collector's Edition,29
 Games,Games PC - Standard Edition,30
 Games,Games PC - Digital,31
-Payment cards,"Payment card (Movies, Music, Games)",32
-Payment cards,Payment cards - Live!,33
-Payment cards,Payment cards - Live! (Numeral),34
-Payment cards,Payment cards - PSN,35
-Payment cards,Payment card - Windows (figure),36
+Payment,"Payment card (Movies, Music, Games)",32
+Payment,Payment cards - Live!,33
+Payment,Payment cards - Live! (Numeral),34
+Payment,Payment cards - PSN,35
+Payment,Payment card - Windows (figure),36
 Movie,Movie - Blu-Ray,37
 Movie,Movie - Blu-Ray 3D,38
 Movie,Movie - Blu-Ray 4K,39
 Movie,Movie - DVD,40
-Cinema - Collector,Cinema - Collector,41
+Cinema,Cinema - Collector,41
 Books,"Books - artbook, encyclopedia",42
 Books,Books - Audiobooks,43
 Books,Books - Audiobooks (figure),44
@@ -78,8 +78,8 @@ Program,Program - For home and office,75
 Program,Program - Home & Office (Digital),76
 Program,Program - Educational,77
 Program,Programs - Educational (figure),78
-System Tools,System Tools,79
-Utilities - Tickets,Utilities - Tickets,80
-Net carriers,Net carriers (spire),81
-Net carriers,Net carriers (piece),82
+System,System Tools,79
+Utilities,Utilities - Tickets,80
+Net-carriers,Net carriers (spire),81
+Net-carriers,Net carriers (piece),82
 batteries,batteries,83
