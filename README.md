@@ -1,8 +1,8 @@
 # FutureSales_Project
 End Term Project
 
-# Problem Statement
-This challenge serves as final project for the "How to win a data science competition" Coursera course.
+# Problem Statement (https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data)
+This challenge serves as final project for the "How to win a data science competition" _Coursera_ course.
 
 In this competition you will work with a challenging time-series dataset consisting of daily sales data, kindly provided by one of the largest Russian software firms - 1C Company. 
 
