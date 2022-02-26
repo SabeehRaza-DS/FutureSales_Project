@@ -8,10 +8,10 @@ In this competition you will work with a challenging time-series dataset consist
 
 We are asking you to predict total sales for every product and store in the next month. By solving this competition you will be able to apply and enhance your data science skills.
 
-# Data Description
+## Data Description
 You are provided with daily historical sales data. The task is to forecast the total amount of products sold in every shop for the test set. Note that the list of shops and products slightly changes every month. Creating a robust model that can handle such situations is part of the challenge.
 
-# Data fields
+## Data fields
 ID - an Id that represents a (Shop, Item) tuple within the test set
 shop_id - unique identifier of a shop
 item_id - unique identifier of a product
